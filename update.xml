@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <item>
   <version>1.0.2</version>
-  <url>https://yourdomain.com/MyApp.exe</url>
+  <url>https://github.com/BOTMESS123/AutoUpdate/releases/download/v1.0.2/Loader.exe</url>
   <mandatory>false</mandatory>
 </item>
+
 
